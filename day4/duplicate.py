@@ -1,4 +1,4 @@
-raw_logs = ["ID01", "ID02", "ID01", "ID05", "ID02", "ID08", "ID01"]
+raw_logs = ["ID01", "ID02", "ID01", "ID05", "ID02", "ID08", "ID01","ID08"]
 
 unique_users = set(raw_logs)
 
