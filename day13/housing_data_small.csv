@@ -1,0 +1,101 @@
+Size_sqft,Bedrooms,Age,City,Condition,Price
+1748.0,1,34,New York,Fair,86545.0
+1431.0,5,15,Houston,Poor,16887.0
+1824.0,1,40,Houston,Good,630415.0
+2262.0,3,35,Los Angeles,Good,730676.0
+1383.0,2,32,Houston,Excellent,1987658.0
+1383.0,4,3,Los Angeles,Fair,1749916.0
+2290.0,3,32,Houston,Excellent,319896.0
+1884.0,1,13,Chicago,Good,522390.0
+1265.0,4,20,Chicago,Poor,767454.0
+1771.0,1,47,Chicago,Fair,487690.0
+1268.0,1,19,Houston,Poor,49610.0
+1267.0,2,7,Los Angeles,Poor,128383.0
+1621.0,4,6,Los Angeles,Fair,43773.0
+543.0,4,2,Houston,Excellent,527615.0
+638.0,2,16,Chicago,Poor,146138.0
+1219.0,3,32,Chicago,Good,53594.0
+994.0,1,47,Los Angeles,Poor,138845.0
+1657.0,5,11,Chicago,Fair,338245.0
+1046.0,1,21,New York,Fair,77762.0
+794.0,1,21,Los Angeles,Fair,18326.0
+2233.0,3,45,Chicago,Excellent,413479.0
+1387.0,1,29,Los Angeles,Poor,183403.0
+1534.0,2,37,New York,Excellent,369857.0
+788.0,2,37,Los Angeles,Excellent,104175.0
+1228.0,4,44,Los Angeles,Fair,400899.0
+1555.0,5,7,Los Angeles,Fair,254368.0
+925.0,1,26,Los Angeles,Excellent,158949.0
+1688.0,1,26,New York,Poor,649128.0
+1200.0,3,33,Houston,Good,87486.0
+1354.0,2,20,Los Angeles,Excellent,33529.0
+1199.0,5,29,Los Angeles,Poor,7884.0
+2426.0,4,32,Chicago,Fair,587566.0
+1493.0,2,27,Los Angeles,Fair,270069.0
+971.0,4,46,Chicago,Poor,223582.0
+1911.0,3,32,Houston,Good,77795.0
+890.0,3,4,New York,Fair,28019.0
+1604.0,1,47,New York,Fair,2846.0
+520.0,5,18,Houston,Fair,75338.0
+836.0,4,3,New York,Poor,167088.0
+1598.0,2,34,Houston,Excellent,144519.0
+1869.0,3,48,Houston,Fair,189622.0
+1586.0,1,16,Houston,Excellent,728874.0
+1442.0,1,43,New York,Good,89727.0
+1349.0,4,27,Chicago,Fair,190044.0
+761.0,3,29,Houston,Fair,232006.0
+1140.0,5,28,Los Angeles,Good,127561.0
+1270.0,3,45,New York,Fair,231836.0
+2029.0,4,5,Houston,Excellent,784697.0
+1672.0,4,34,Houston,Poor,872518.0
+618.0,3,40,Los Angeles,Excellent,20994.0
+1662.0,4,36,Chicago,Poor,666177.0
+1307.0,3,23,Chicago,Poor,190665.0
+1162.0,2,28,Chicago,Excellent,57423.0
+1806.0,3,48,Houston,Excellent,186430.0
+2015.0,3,45,Houston,Excellent,1285297.0
+1966.0,4,30,Houston,Excellent,247418.0
+1080.0,4,34,New York,Good,92550.0
+1345.0,1,32,Los Angeles,Fair,235088.0
+1666.0,1,20,Houston,Poor,82289.0
+1988.0,2,31,Los Angeles,Excellent,27356.0
+1260.0,1,22,Los Angeles,Excellent,24529.0
+1407.0,3,32,Chicago,Excellent,31601.0
+947.0,4,2,New York,Good,34236.0
+902.0,1,17,Houston,Excellent,24650.0
+1906.0,1,24,Chicago,Excellent,335899.0
+2178.0,2,41,Chicago,Excellent,78385.0
+1464.0,2,30,Houston,Fair,111500.0
+2002.0,3,2,Los Angeles,Good,897540.0
+1681.0,4,39,Chicago,Excellent,230207.0
+1177.0,2,45,Los Angeles,Poor,211105.0
+1681.0,1,23,New York,Poor,52305.0
+2269.0,4,49,Los Angeles,Poor,94446.0
+1482.0,4,31,New York,Good,12785.0
+2282.0,1,46,Los Angeles,Good,76092.0
+500.0,2,21,Chicago,Poor,28128.0
+1911.0,1,22,Chicago,Excellent,68769.0
+1544.0,4,1,New York,Good,26915.0
+1350.0,5,26,Houston,Poor,37372.0
+1546.0,5,41,New York,Poor,176193.0
+506.0,3,1,New York,Excellent,21583.0
+1390.0,1,25,Los Angeles,Fair,116422.0
+1679.0,1,16,Los Angeles,Good,176049.0
+2239.0,3,39,New York,Excellent,406028.0
+1241.0,3,32,Chicago,Poor,9210.0
+1096.0,3,8,Los Angeles,Poor,381298.0
+1249.0,4,42,Houston,Excellent,242932.0
+1958.0,1,47,Los Angeles,Good,27789.0
+1664.0,4,38,Los Angeles,Fair,697845.0
+1235.0,3,28,Houston,Fair,612681.0
+1757.0,1,41,New York,Poor,17383.0
+1549.0,4,25,Houston,Good,95623.0
+1984.0,4,34,New York,Fair,586806.0
+1149.0,3,49,New York,Good,263604.0
+1336.0,1,24,New York,Good,40260.0
+1304.0,3,23,Houston,Poor,59028.0
+768.0,1,12,New York,Fair,61925.0
+1648.0,5,6,Chicago,Excellent,235952.0
+1631.0,2,35,Houston,Poor,271744.0
+1503.0,2,44,Chicago,Fair,84148.0
+1383.0,2,19,New York,Fair,141846.0
